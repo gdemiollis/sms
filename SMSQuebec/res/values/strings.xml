@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SMS Telus-Koodo</string>
+    <string name="send">Envoyer</string>
+    <string name="sent">Message envoyé!</string>
+    <string name="title_activity_main">@string/app_name</string>
+    <string name="sending">Envoi en cours</string>
+    <string name="error">Erreur</string>
+    <string name="send_error">Une erreur est survenue lors de l\'envoi du message</string>
+    <string name="destinataire">No du destinataire</string>
+    <string name="message">Message</string>
+    <string name="signature">Signature</string>
+    <string name="signature_on">Signature activée</string>
+    <string name="settings">Paramètres</string>
+    <string name="char_avalaible">Caractères restants : %d</string>
+    <string name="cannot_get_number">Impossible de récupérer le numéro</string>
+    <string name="please_num">Veuillez saisir un numéro</string>
+    <string name="please_message">Veuillez saisir un message</string>
+    <string name="please_set_10_number">Veuillez saisir au moins 10 chiffres</string>
+
+</resources>
